@@ -1,0 +1,4 @@
+,Silhouette,Davies_Bouldin,Calinski_Harabasz,N_Clusters,Min_Cluster_Size,Cluster_Sizes,Stability_ARI
+K-Means,0.17504934494359545,1.741358921748175,19.371458289577358,4,15,"{np.int64(0): np.int64(16), np.int64(1): np.int64(37), np.int64(2): np.int64(32), np.int64(3): np.int64(15)}",0.7762146473539474
+Agglomerative,0.16147623744685696,1.611110984761396,16.577157328056337,4,7,"{np.int64(0): np.int64(44), np.int64(1): np.int64(33), np.int64(2): np.int64(16), np.int64(3): np.int64(7)}",0.6183124324918597
+Gaussian Mixture,0.17993626055681644,1.7696165406818716,15.399562065489379,7,7,"{np.int64(0): np.int64(18), np.int64(1): np.int64(11), np.int64(2): np.int64(8), np.int64(3): np.int64(16), np.int64(4): np.int64(19), np.int64(5): np.int64(21), np.int64(6): np.int64(7)}",0.49107645238427705
